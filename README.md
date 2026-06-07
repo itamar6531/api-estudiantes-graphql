@@ -4,8 +4,6 @@
 
 ## Acerca del proyecto
 
-Este repositorio es una **API backend** para administrar información de estudiantes usando **GraphQL** en lugar de endpoints REST tradicionales. Está construido con Laravel y permite consultar, crear, actualizar y eliminar registros de estudiantes a través de un único endpoint (`/graphql`), donde el cliente define exactamente qué datos necesita en cada petición.
-
 El objetivo del proyecto es practicar el diseño de esquemas GraphQL, el uso de queries y mutations, y su integración con Eloquent y migraciones de Laravel. Es un proyecto de aprendizaje y portafolio, pensado para explorar cómo GraphQL simplifica la comunicación entre frontend y backend al evitar el sobre-fetching y el under-fetching de datos.
 
 ## Características
